@@ -1,0 +1,29 @@
+Comandos para 
+
+
+----------------------------------
+Provedor
+----------------------------------
+nest generate module proveedores
+nest generate controller proveedores
+nest generate service proveedores  
+
+----------------------------------
+
+----------------------------------
+Productos
+----------------------------------
+nest generate module productos
+nest generate controller productos
+nest generate service productos  
+
+----------------------------------
+
+----------------------------------
+Tiendas
+----------------------------------
+nest generate module tiendas
+nest generate controller tiendas
+nest generate service tiendas  
+
+----------------------------------
